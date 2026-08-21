@@ -1,0 +1,14 @@
+[
+    {
+        "title": "cloth",
+        "category": "shopping",
+        "amount": 300.0,
+        "date": "2026-08-21 16:58"
+    },
+    {
+        "title": "food",
+        "category": "food",
+        "amount": 4000.0,
+        "date": "2026-08-21 16:59"
+    }
+]
